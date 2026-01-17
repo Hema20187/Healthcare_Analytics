@@ -1,18 +1,28 @@
-# Healthcare Analysis
+## Healthcare Dashboard Insights
+# Project Objective
 
-## Project Objective
-Analyze patient admissions across multiple hospitals to identify trends, common medical conditions, and areas requiring operational improvements. The goal is to provide actionable insights to help hospitals manage patient load efficiently.
+Analyze patient admissions and billing across multiple hospitals to identify trends, common conditions, and operational priorities, providing actionable insights for better hospital management.
 
-## Key Findings
-- Most hospitals have a small number of admissions, while a few hospitals handle the majority of patients, including a high share of emergency cases.
-- Arthritis is the most common medical condition among admitted patients; other conditions account for significantly fewer cases.
-- Elective admissions constitute the largest share of total cases, highlighting strong demand for planned and urgent care.
-- Patient admissions vary month to month, indicating possible seasonal trends.
+# Key Insights
 
-## Recommendations
-- Ensure adequate staffing and facilities during peak admission periods.
-- Monitor seasonal patterns to proactively manage beds, equipment, and medical staff.
+Overall Performance: Total patients, total billing, and average cost per patient show the hospitals’ operational and financial load, with YoY KPIs highlighting growth trends.
 
-## Tools Used
-- **Power BI** – Dashboards, charts, KPIs
-- **Excel** – Pivot tables and summary analysis
+Top Hospitals: A few hospitals handle the majority of admissions, including emergency cases, while others manage smaller patient volumes.
+
+Admission Type Distribution: Elective admissions form the largest share, with emergency and urgent cases comprising the remainder, highlighting a mix of planned and critical care services.
+
+Billing Trend: Monthly billing trends show fluctuations, suggesting seasonal patterns in hospital revenue and patient inflow.
+
+# Recommendations
+
+Allocate staffing and resources efficiently, especially in hospitals with high patient load.
+
+Monitor seasonal trends to proactively manage beds, equipment, and staff.
+
+Plan for a balance between elective and emergency care to ensure smooth operations.
+
+# Tools Used
+
+Power BI – KPIs, charts, dashboards
+
+Excel – Pivot tables and summary analysis
